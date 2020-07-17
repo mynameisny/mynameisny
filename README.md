@@ -6,9 +6,9 @@
 A <em>(hopefully soon-not-to-be so-called) indie</em> software developer.<br>
 Loves building tools, design, typography and Vocaloid.<br>
 <br>
-<a href="https://1a23.com">Portfolio Site</a>
- · <a href="https://blog.1a23.com">Blog</a>
- · <a href="https://twitter.com/blueset">Twitter</a>
+<a href="https://ningyu.me">Portfolio Site</a>
+ · <a href="https://blog.ningyu.me">Blog</a>
+ · <a href="https://resume.ningyu.me">Resume</a>
 <br>
 <br>
 <br>
