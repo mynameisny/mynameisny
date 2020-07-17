@@ -3,8 +3,7 @@
 ![ningyu.me](https://raw.githubusercontent.com/mynameisny/mynameisny/master/john_snow.svg)
 
 <p align="center">
-A <em>(hopefully soon-not-to-be so-called) indie</em> software developer.<br>
-Loves building tools, design, typography and Vocaloid.<br>
+Chaos isn't a pit. Chaos is a ladder. ​​​​<br>
 <br>
 <a href="https://ningyu.me">Portfolio Site</a>
  · <a href="https://blog.ningyu.me">Blog</a>
