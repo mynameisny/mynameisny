@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ningyu.me](https://blog.ningyu.me/images/john_snow_blue.svg)
+![ningyu.me](https://raw.githubusercontent.com/mynameisny/mynameisny/master/john_snow.svg)
 
 <p align="center">
 A <em>(hopefully soon-not-to-be so-called) indie</em> software developer.<br>
